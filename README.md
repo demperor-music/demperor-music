@@ -6,7 +6,7 @@
 ```javascript
 var Demperor = {
   pronouns: "he" | "him",
-  code: ["Javascript", "Typescript", "HTML", "CSS", "Python", "C++", "C#"],
+  code: ["Rust", "Javascript", "Typescript", "HTML", "CSS", "Python", "C++", "C#"],
   other skills: {
                   music: ["Composing", "Music Production"],
                   languages: ["Italian", "English", "Japanese"]
