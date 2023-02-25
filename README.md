@@ -15,6 +15,8 @@ var Demperor = {
                 }
 }
 ```
+[![Contact me](https://img.shields.io/badge/-Contact-8B89CC?logo=protonmail&style=for-the-badge&logoColor=white&logoWidth=30)](mailto://demperor@protonmail.com)
+[![Donate](https://img.shields.io/badge/-Donate-E71D29?logo=undertale&style=for-the-badge&logoColor=white&logoWidth=30)](https://donate.stripe.com/eVaeYPfaj60kbtK8wx)
 
 -----
 Template credits: [Thaiane](https://github.com/Thaiane) [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
